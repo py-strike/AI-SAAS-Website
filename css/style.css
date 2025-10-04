@@ -80,7 +80,7 @@ Version:  1.0.0
   --white-color: #ffffff;
   --primary-color: #171406;
   --secondary-color: #004f3a;
-  --accent-color: #7b48f8;
+  --accent-color: red;
   --accent-secondary-color: #6686f9;
   --accent-color-light: #f1f1fe;
   --bg-color: var(--white-color);
